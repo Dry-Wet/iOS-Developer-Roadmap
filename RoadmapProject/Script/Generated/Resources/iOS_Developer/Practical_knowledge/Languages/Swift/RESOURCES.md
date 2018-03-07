@@ -6,6 +6,6 @@
 - [ ] [Swift Apprentice](https://store.raywenderlich.com/products/swift-apprentice?_ga=2.74566868.712179774.1519384552-896491817.1510924963)
 
 ### Blogs
-- [ ] [SWIFT BY SUNDELL](https://www.swiftbysundell.com/)
+- [x] [SWIFT BY SUNDELL](https://www.swiftbysundell.com/)
 
 
