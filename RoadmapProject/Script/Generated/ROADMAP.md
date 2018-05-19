@@ -133,7 +133,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Iterator
                     - [ ] Mediator
                     - [ ] Memento
-                    - [x] Observer
+                    - [x] [Observer](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Behavioural/Observer/RESOURCES.md)
                     - [ ] State
                     - [ ] Strategy
                     - [ ] Visitor
