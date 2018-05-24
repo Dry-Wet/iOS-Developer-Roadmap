@@ -134,7 +134,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Mediator
                     - [ ] Memento
                     - [x] [Observer](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Behavioural/Observer/RESOURCES.md)
-                    - [ ] State
+                    - [ ] [State](https://agostini.tech/2018/05/13/design-patterns-in-swift-state/)
                     - [ ] Strategy
                     - [ ] Visitor
                 - [ ] Concurrency
