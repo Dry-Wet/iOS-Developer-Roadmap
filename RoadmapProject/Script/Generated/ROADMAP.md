@@ -119,7 +119,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Prototype
                     - [ ] [Singleton](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
                 - [ ] `Structural`
-                    - [ ] Adapter
+                    - [ ] [Adapter](https://medium.com/@NilStack/swift-world-design-patterns-adapter-3e09fc6fd100)
                     - [ ] Bridge
                     - [ ] Composite
                     - [ ] Decorator
